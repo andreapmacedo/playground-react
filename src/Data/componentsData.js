@@ -4,3 +4,17 @@ export const menuItems = [
     {title: "teste3"},  
 ]
     
+export const multileveMenuItems = [
+    {
+      title: 'Home',
+      url: '/',
+    },
+    {
+      title: 'Services',
+      url: '/services',
+    },
+    {
+      title: 'About',
+      url: '/about',
+    },
+  ];

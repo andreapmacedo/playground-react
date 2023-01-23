@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import Rotas from './Routes';
+import AppRoutes from './Routes';
 
 const App = () => (
   <div className="App">
-    <Rotas />
+    <AppRoutes />
   </div>
 );
 
